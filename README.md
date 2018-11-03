@@ -14,14 +14,14 @@ Auto-replying film info in Wechat by crawling the website douban.
 
 ## What do I need to run it?
 
-* BS4(for BeautifulSoup)
-* lxml
-* Selenium(for webdriver)
-* chromedriver.exe
-* itchat
+* ```BS4```(for BeautifulSoup)
+* ```lxml```
+* ```Selenium```(for webdriver)
+* ```chromedriver.exe```
+* ```itchat```
 
 Note: This project runs Chrome, but other browsers like Firefox, PhantomJS, etc. is also applicable, and other drivers may also be necessary.
 
 ## How to run it?
 
-Just modify the path of chromedriver.exe(see detail in the code) and run AutoReply.py.
+Just modify the path of ```chromedriver.exe```(see detail in the code) and run ```AutoReply.py```.
